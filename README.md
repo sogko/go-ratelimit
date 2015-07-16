@@ -6,10 +6,12 @@ Golang package to ratelimit messages/connections per unit time
 import "github.com/sogko/go-ratelimit"
 
 func main() {
+
+  // rate limit at 500 messages every 8 seconds
   rate := 500
   per := 8
   rl := ratelimit.NewRateLimiter(rate, per)
-  ....
+  ...
   if rl.Limit() {
     drop_connection(conn)
   }

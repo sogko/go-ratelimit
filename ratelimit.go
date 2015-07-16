@@ -27,6 +27,8 @@ package ratelimit
 //
 // Usage:
 //    import "github.com/sogko/go-ratelimit"
+//
+//    // rate limit at 500 messages every 8 seconds
 //    rate := 500
 //    per := 8
 //    rl := ratelimit.NewRateLimiter(rate, per)
