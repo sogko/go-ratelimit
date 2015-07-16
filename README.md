@@ -28,4 +28,11 @@ func main() {
 - Anti Huimaa
   - Reference: http://stackoverflow.com/questions/667508/whats-a-good-rate-limiting-algorithm
 
-(c) 2015 Hafiz Ismail
+## Links
+- [wehavefaces.net](http://wehavefaces.net)
+- [twitter.com/sogko](http://twitter.com/sogko)
+- [github.com/sogko](http://github.com/sogko)
+- [github.com/sogko](http://github.com/sogko)
+
+## License
+Copyright (c) 2015 Hafiz Ismail. This software is licensed under the GPLv2.
